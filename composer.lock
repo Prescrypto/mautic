@@ -8812,7 +8812,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "~5.6.19|~7.0"
+        "php": "~5.6.19"
     },
     "platform-dev": []
 }
