@@ -108,9 +108,9 @@
         "symfony/expression-language": "~2.8",
         "egeloen/ordered-form-bundle": "^3.0",
 
-        "mcrypt",
-        "intl",
-        "imap",
+        "mcrypt" : "^2.5.6",
+        "intl" : "^3.3.0",
+        "imap" : "^2.5.6"
     },
     "require-dev": {
         "symfony/web-profiler-bundle": "~2.8",
