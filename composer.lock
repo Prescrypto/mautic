@@ -8803,27 +8803,6 @@
             "homepage": "http://inside.webfactory.de/de/blog/symfony2-exception-handling-and-custom-error-pages-explained.html",
             "time": "2016-01-19 14:46:51"
         },
-        {
-            "name": "ext-intl",
-            "version": "*",
-            "require": {
-                "ext-intl": "*"
-            }
-        },
-        {
-            "name": "ext-imap",
-            "version": "*",
-            "require": {
-                "ext-imap": "*"
-            }
-        },
-        {
-            "name": "ext-mcrypt",
-            "version": "*",
-            "require": {
-                "ext-mcrypt": "*"
-            }
-        }
     ],
     "aliases": [],
     "minimum-stability": "stable",
