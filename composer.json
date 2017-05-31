@@ -110,7 +110,7 @@
 
         "ext-mcrypt" : "*",
         "ext-intl" : "*",
-        "ext-imap" : "*"
+        "ext-imap" : "*",
     },
     "require-dev": {
         "symfony/web-profiler-bundle": "~2.8",
